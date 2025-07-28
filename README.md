@@ -2,7 +2,7 @@
 
 このPythonスクリプトはイメージ」と「評価」の関係を回帰分析で可視化【調査×データ分析】を実装しています。
 
-[pyファイルはこちら] ()
+👉 [pyファイルはこちら] (https://github.com/iwakazusuwa/py_regression?tab=readme-ov-file)
 
 
 詳しい使い方や解説は以下の記事をご覧ください。
